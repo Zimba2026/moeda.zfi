@@ -9,12 +9,12 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="ZIMBA PHILANTHROPY INVESTMENTS"
 ORG_DESCRIPTION="Security, Resilience and International Donation"
-ORG_LOGO="COLE_AQUI_O_LINK_RAW_DA_IMAGEM"
+ORG_LOGO="https://raw.githubusercontent.com/Zimba2026/moeda.zfi/refs/heads/main/logo.png.png"
 
 [[CURRENCIES]]
 code="ZFI"
 issuer="GBK2EY4GRD7ECXRUSP5DFJRHCNJEFXP2E4PCUYWS43YPAFA6IHGFX6W3"
-name="Zimba Finance Instrument"
+name="ZIMBA PHILANTHROPY INVESTMENTS"
 desc="Security, Resilience and International Donation"
 image="https://raw.githubusercontent.com/Zimba2026/moeda.zfi/refs/heads/main/logo.png.png"
 display_decimals=2
